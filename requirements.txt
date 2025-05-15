@@ -1,0 +1,5 @@
+Flask
+Pillow
+flask_cors
+numpy
+ultralytics
